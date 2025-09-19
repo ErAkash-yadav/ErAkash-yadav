@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash yadav</h1>
+
 <h3 align="center">⚡ Electronics Engineer | 🔧 Circuit & PCB Design | 📡 Embedded Systems 💻 Skilled in Arduino, Raspberry Pi, IoT & Automation 🚀 Passionate about turning ideas into working hardware</h3>
 
 <img align="right" alt="coading" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesignbyebrahim.com%2Fprojects%2Fenph_253_competition&psig=AOvVaw3Ll_utM3yHEcHXIRMRZfM7&ust=1758342470844000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi5gKn-448DFQAAAAAdAAAAABAM">
